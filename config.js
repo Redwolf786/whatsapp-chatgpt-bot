@@ -49,7 +49,7 @@ export default {
   // Required. Specify the OpenAI API key to be used
   // You can sign up for free here: https://platform.openai.com/signup
   // Obtain your API key here: https://platform.openai.com/account/api-keys
-  openaiKey: env.OPENAI_API_KEY || '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',
+  openaiKey: env.OPENAI_API_KEY || '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',
 
   // Required. Set the OpenAI model to use.
   // You can use a pre-existing model or create your fine-tuned model.
