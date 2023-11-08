@@ -6,7 +6,7 @@ const unknownCommandMessage = `I'm sorry, I can only understand text. Can you pl
 If you would like to chat with a human, just reply with *human*.`
 
 // Default welcome message. Change it as you need.
-const welcomeMessage = `Hey there 👋 Welcome to this ChatGPT-powered AI chatbot demo using *Wassenger API*! I can also speak many languages 😁`
+const welcomeMessage = `Hey there 👋 Welcome to this ChatGPT-powered AI chatbot! I can also speak many languages 😁`
 
 // AI bot instructions to adjust its bevarior. Change it as you need.
 // Use concise and clear instructions.
@@ -26,10 +26,10 @@ const defaultMessage = `Don't be shy 😁 try asking anything to the AI chatbot,
 
 Example queries:
 
-1️⃣ Explain me what is Wassenger
-2️⃣ Can I use Wassenger to send automatic messages?
-3️⃣ Can I schedule messages using Wassenger?
-4️⃣ Is there a free trial available?
+1️⃣ Explain me what is WhatsApp bot
+2️⃣ Can I use WhatsApp bot to send automatic messages?
+3️⃣ Can I schedule messages using WhatsApp bot?
+4️⃣ any questions related to your education?
 
 Type *human* to talk with a person. The chat will be assigned to an available member of the team.
 
