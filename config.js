@@ -44,7 +44,7 @@ export default {
 
   // Required. Specify the Wassenger API key to be used
   // You can obtain it here: https://app.wassenger.com/apikeys
-  apiKey: env.API_KEY || 'd3897c89ef7aa3a786c791ab1b6bf56422d46b714d8b234562f01727e5d39929f2ff0a72d9c03a33',
+  apiKey: env.API_KEY || '82c91a23369bd016e88f55e53df88e0077e137ca8aab1b29d5893d36e205bb553b18eb6a15b5abe1',
 
   // Required. Specify the OpenAI API key to be used
   // You can sign up for free here: https://platform.openai.com/signup
